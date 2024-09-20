@@ -1,2 +1,2 @@
 "# QR-Code-Generator" 
-"#In this Project i use a module : "react-qr-code""
+"#In this Project I use a module : "react-qr-code""
